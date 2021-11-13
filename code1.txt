@@ -1,3 +1,2 @@
 huyratio
-abc
-def
+ratio 1
