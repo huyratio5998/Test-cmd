@@ -1,3 +1,4 @@
 name: washing 001
 number: 2
 year: 2021
+warehouse: VN
